@@ -1,0 +1,18 @@
+name: GOES_ANIM
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - argopy
+  - cartopy
+  - erddapy
+  - folium
+  - goes2go
+  - jupyter
+  - matplotlib-base
+  - numpy
+  - pandas
+  - pyproj
+  - requests
+  - shapely
+  - xarray
